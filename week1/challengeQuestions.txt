@@ -1,0 +1,5 @@
+Q1. 575. Distribute Candies: https://leetcode.com/problems/distribute-candies/submissions/1896796574
+
+Q2. 455. Assign Cookies: https://leetcode.com/problems/assign-cookies/submissions/1836982765
+
+Q3. 2681. Power of Heroes: https://leetcode.com/problems/power-of-heroes/submissions/1899390165
